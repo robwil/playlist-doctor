@@ -1,0 +1,23 @@
+{
+    "AppName": {
+        "en": "Playlist Doctor"
+    },
+    "BundleIdentifier": "playlist-doctor",
+    "BundleType": "Application",
+    "BundleVersion": "0.1",
+    "Dependencies": {
+        "api": "1.0.0",
+        "views": "1.0.0"
+    },
+    "SupportedDeviceClasses": [
+        "Web",
+        "Desktop"
+    ],
+    "AppDescription": {
+        "en": "Drop a playlist file into this app, and it will help you fix grayed out files."
+    },
+    "SupportedLanguages": [
+        "en"
+    ],
+    "VendorIdentifier": "me.robwilliams"
+}
