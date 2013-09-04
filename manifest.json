@@ -19,5 +19,6 @@
     "SupportedLanguages": [
         "en"
     ],
-    "VendorIdentifier": "me.robwilliams"
+    "VendorIdentifier": "me.robwilliams",
+	"AcceptedLinkTypes": ["playlist"]
 }
